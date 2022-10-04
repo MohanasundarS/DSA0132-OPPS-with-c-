@@ -13,7 +13,7 @@ class B
 public:
 void student()
 {
-cout<<"shruthika"<<endl;
+cout<<"mohan"<<endl;
 }
 };
 class C:public A,public B
@@ -21,7 +21,7 @@ class C:public A,public B
 public:
 void student1()
 {
-cout<<"hema"<<endl;
+cout<<"rajesh"<<endl;
 }
 };
 int main()
